@@ -7,10 +7,9 @@
 - :unlock:   I'm an open person to learning everything.
 - :pencil:  C / C++ / Python / Bash Script
 - :beers:  I’m looking to collaborate with other content creators.
-<a href="ewreerturk.com">link text</a>
 
 <br/>
-
+<a href="https://ewreerturk.com/">click and go to my website</a>
 ## :mailbox: How can you contact me :question:  
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:erturktalhaemre@hotmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ewreerturk/)
