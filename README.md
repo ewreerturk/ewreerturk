@@ -7,6 +7,7 @@
 - :unlock:   I'm an open person to learning everything.
 - :pencil:  C / C++ / Python / Bash Script
 - :beers:  I’m looking to collaborate with other content creators.
+ewreerturk.com
 
 <br/>
 
