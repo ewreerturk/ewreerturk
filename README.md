@@ -15,7 +15,7 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/ewreerturk)
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/ewreerturk)
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/XwrthUtV)
-<img align="right" height="150" src="https://media.giphy.com/media/L2xMiAQA8sa19ln8PG/giphy.gif" />
+
 
 
 
