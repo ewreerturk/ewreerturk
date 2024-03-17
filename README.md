@@ -1,7 +1,7 @@
 # Hi, I'm Emre Ertürk  ewreerturk.com <img src="https://media.giphy.com/media/3o7aD7X7C5pi5BMMp2/giphy.gif" width="60px" />
 #### <a href="https://ewreerturk.com/">click and go to my website</a>
 
-<img align="right" width="480 height="344" src="https://giphy.com/embed/JqmupuTVZYaQX5s094" />
+<img align="right" height="344" src="https://giphy.com/embed/JqmupuTVZYaQX5s094" />
 
 - :man_technologist:  DevOps Engineer at Kron
 - :pencil:  C / Python / Bash Script
