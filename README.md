@@ -8,7 +8,7 @@
 
 <br/>
 
-## :mailbox: How can you contact me<img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=FF75F1&random=false&width=435&lines=%3F" alt="Typing SVG" /></a>
+## :mailbox: How can you contact me <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Press+Start+2P&size=13&pause=1000&color=FF75F1&random=false&width=435&lines=%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F%3F" alt="Typing SVG" /></a>
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:erturktalhaemre@hotmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ewreerturk/)
 [<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/ewreerturk)
