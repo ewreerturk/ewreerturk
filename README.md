@@ -7,7 +7,7 @@
 - :pencil:  C / Python / Bash Script
 
 <br/>
-https://giphy.com/embed/JqmupuTVZYaQX5s094
+
 ## :mailbox: How can you contact me :question:  
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:erturktalhaemre@hotmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ewreerturk/)
