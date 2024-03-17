@@ -1,7 +1,7 @@
 # Hi, I'm Emre Ertürk  ewreerturk.com <img src="https://media.giphy.com/media/3o7aD7X7C5pi5BMMp2/giphy.gif" width="60px" />
 #### <a href="https://ewreerturk.com/">click and go to my website</a>
 <iframe src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" width="480" height="297" frameBorder="0" class="giphy-embed" allowFullScreen></iframe><p><a href="https://giphy.com/gifs/Smolverse-builder-smol-smolverse-QXwtfadqo7wbfmT46H">via GIPHY</a></p>
-<img align="right" height="290" src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" />
+
 
 - :man_technologist:  DevOps Engineer at Kron
 - :pencil:  C / Python / Bash Script
@@ -20,3 +20,4 @@
 
 <img align="right" src="https://media.giphy.com/media/se6QSoA9i3SnuqOBrm/giphy.gif" width="15" />
 <br>
+###<img align="right" height="290" src="https://giphy.com/embed/QXwtfadqo7wbfmT46H" />
