@@ -1,13 +1,13 @@
 # Hi, I'm Emre Ertürk  ewreerturk.com <img src="https://media.giphy.com/media/3o7aD7X7C5pi5BMMp2/giphy.gif" width="60px" />
 #### <a href="https://ewreerturk.com/">click and go to my website</a>
 
-<img align="right" height="290" src="https://media.giphy.com/media/qP9vDssrCygE4shR8E/giphy.gif" />
+<img align="right" height="290" src="https://giphy.com/embed/JqmupuTVZYaQX5s094" />
 
 - :man_technologist:  DevOps Engineer at Kron
 - :pencil:  C / Python / Bash Script
 
 <br/>
-
+https://giphy.com/embed/JqmupuTVZYaQX5s094
 ## :mailbox: How can you contact me :question:  
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:erturktalhaemre@hotmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ewreerturk/)
