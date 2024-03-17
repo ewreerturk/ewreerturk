@@ -12,7 +12,6 @@
 [<img src="https://img.icons8.com/bubbles/50/000000/gmail.png"/>](mailto:erturktalhaemre@hotmail.com)
 [<img src="https://img.icons8.com/bubbles/50/000000/linkedin.png"/>](https://www.linkedin.com/in/ewreerturk/)
 [<img src="https://img.icons8.com/bubbles/50/000000/github.png">](https://github.com/ewreerturk)
-[<img src="https://img.icons8.com/bubbles/50/000000/twitter.png"/>](https://twitter.com/ewreerturk)
 [<img src="https://img.icons8.com/bubbles/50/000000/instagram-new.png"/>](https://instagram.com/ewreerturk)
 [<img src="https://img.icons8.com/bubbles/50/000000/spotify.png"/>](https://open.spotify.com/user/ewreerturk)
 [<img src="https://img.icons8.com/bubbles/50/000000/discord-logo.png"/>](https://discord.gg/XwrthUtV)
