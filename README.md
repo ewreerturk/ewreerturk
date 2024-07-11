@@ -4,7 +4,7 @@
 
 
 - :man_technologist:  DevOps Engineer at Kron
-- :pencil:  C / Python / Bash Script
+- :pencil:  BS
 
 <br/>
 
