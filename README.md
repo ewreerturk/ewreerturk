@@ -3,8 +3,8 @@
 <img align="right" height="290" src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExOGY0Z252enIwNnZva3ExbnB3NjgxMmVxdm9sOHVoODBzeWVpcGF2NiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JqmupuTVZYaQX5s094/giphy.gif" />
 
 
-- :man_technologist:  DevOps Engineer at Kron
-- :pencil:  BS
+- :man_technologist:  DevOps Engineer at adesso
+- :pencil:  Bash Script, Python
 
 <br/>
 
